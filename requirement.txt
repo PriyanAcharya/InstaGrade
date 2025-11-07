@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+docker
+redis
+python-dotenv
+psycopg2-binary
+sqlalchemy
+pydantic
